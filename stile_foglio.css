@@ -1,14 +1,14 @@
-h1 {font-family:"DejaVu Sans"; color:#4d4d4d; text-align:center; font-size:36px; margin-top:20px; margin-bottom;60px}
+h1 {font-family:"DejaVu Sans"; color:#4d4d4d; text-align:center; font-size:100%; margin-top:20px; margin-bottom;60px}
 h2 {font-family:"DejaVu Sans Mono"; color:#4d4d4d; font-size:20px}
 h3 {color:white; font-size:16px}
-body {font-family:"DejaVu Sans Mono"; margin-left:300px; margin-right:300px; margin-bottom:36px; text-align:left;}
-p {font-family:"DejaVu Sans Mono"; color:white; font-size:13px; line-height:1.8}
-ul {font-family:"DejaVu Sans Mono"; color:white; font-size:13px; line-height:2}
+body {font-family:"DejaVu Sans Mono"; margin-left:20%; margin-right:20%; margin-bottom:36px; text-align:left;}
+p {font-family:"DejaVu Sans Mono"; color:white; font-size:0.875em; line-height:1.8}
+ul {font-family:"DejaVu Sans Mono"; color:white; font-size:0.875em; line-height:1.8}
 a {color:yellow}
 img {height: 150px; width:auto;}
-.bio {padding:20px; background-color:#ff7733}
-.projects {padding:20px; background-color:#00cc44}
+.bio {padding:15%; background-color:#ff7733}
+.projects {padding:15%; background-color:#00cc44}
 .drivefolder {text-align:center}
-.contacts {padding:20px; background-color: blue}
+.contacts {padding:15%; background-color: blue}
 .endpage {color:#4d4d4d; text-align:center}
 .image {text-align:center; margin-top:36px}
