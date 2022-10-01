@@ -18,7 +18,9 @@ img {height: 10rem; width:auto;}
 		margin-right: 2.5em;
 		margin-left: 2.5em;
 	}
-.h1 {
-	font-size:4rem;
 }
+@media screen and (max-width: 420) {
+	.h1 {
+		font-size:4rem;
+	}
 }
