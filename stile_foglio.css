@@ -1,14 +1,14 @@
-h1 {font-family:"DejaVu Sans"; color:#4d4d4d; text-align:center; font-size:100%; margin-top:20px; margin-bottom;60px}
-h2 {font-family:"DejaVu Sans Mono"; color:#4d4d4d; font-size:20px}
-h3 {color:white; font-size:16px}
-body {font-family:"DejaVu Sans Mono"; margin-left:20%; margin-right:20%; margin-bottom:36px; text-align:left;}
+h1 {font-family:"DejaVu Sans"; color:#4d4d4d; text-align:center; font-size:2em; margin-top:20px; margin-bottom;60px}
+h2 {font-family:"DejaVu Sans Mono"; color:#4d4d4d; font-size:1.4em}
+h3 {color:white; font-size:1.1em}
+body {font-family:"DejaVu Sans Mono"; margin-left:5%; margin-right:5%; margin-bottom:36px; text-align:left;}
 p {font-family:"DejaVu Sans Mono"; color:white; font-size:0.875em; line-height:1.8}
 ul {font-family:"DejaVu Sans Mono"; color:white; font-size:0.875em; line-height:1.8}
 a {color:yellow}
 img {height: 150px; width:auto;}
-.bio {padding:15%; background-color:#ff7733}
-.projects {padding:15%; background-color:#00cc44}
+.bio {padding:5%; background-color:#ff7733}
+.projects {padding:5%; background-color:#00cc44}
 .drivefolder {text-align:center}
-.contacts {padding:15%; background-color: blue}
+.contacts {padding:5%; background-color: blue}
 .endpage {color:#4d4d4d; text-align:center}
 .image {text-align:center; margin-top:36px}
