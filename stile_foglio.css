@@ -12,15 +12,3 @@ img {height: 10rem; width:auto;}
 .contacts {padding:2em; background-color: blue}
 .endpage {color:#4d4d4d; text-align:center; font-size:0.7rem}
 .image {text-align:center; margin-top:36px}
-
-@media screen and (max-width: 768) {
-	.body {
-		margin-right: 2.5em;
-		margin-left: 2.5em;
-	}
-}
-@media screen and (max-width: 768) {
-	.h1 {
-		font-size:4rem;
-	}
-}
