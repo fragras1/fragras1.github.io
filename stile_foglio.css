@@ -1,15 +1,15 @@
-h1 {font-family:"DejaVu Sans"; color:#4d4d4d; text-align:center; font-size:2.8em; margin-top:20px; margin-bottom;60px}
-h2 {font-family:"DejaVu Sans Mono"; color:#4d4d4d; font-size:1.4em}
-h3 {color:white; font-size:1.1em}
+h1 {font-family:"DejaVu Sans"; color:#4d4d4d; text-align:center; font-size:2.8rem; margin-top:20px; margin-bottom;60px}
+h2 {font-family:"DejaVu Sans Mono"; color:#4d4d4d; font-size:1.4rem}
+h3 {color:white; font-size:1.1rem}
 body {font-family:"DejaVu Sans Mono"; margin-left:8.5%; margin-right:8.5%; margin-bottom:36px; text-align:left;}
-p {font-family:"DejaVu Sans Mono"; color:white; font-size:0.8em; line-height:1.8}
-ul {font-family:"DejaVu Sans Mono"; color:white; font-size:0.95em; line-height:1.8}
+p {font-family:"DejaVu Sans Mono"; color:white; font-size:0.8rem; line-height:1.8}
+ul {font-family:"DejaVu Sans Mono"; color:white; font-size:0.8rem; line-height:1.8}
 a {font-family:"DejaVu Sans Mono"; color:yellow; font-size:100%}
 img {height: 150px; width:auto;}
 .bio {padding:2.5%; background-color:#ff7733}
 .projects {padding:2.5%; background-color:#00cc44}
 .drivefolder {text-align:center}
 .contacts {padding:2.5%; background-color: blue}
-.endpage {color:#4d4d4d; text-align:center; font-size:0.7em}
+.endpage {color:#4d4d4d; text-align:center; font-size:0.7rem}
 .image {text-align:center; margin-top:36px}
 
