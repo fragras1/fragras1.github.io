@@ -8,9 +8,9 @@ p {font-family:"DejaVu Sans Mono"; color:white; line-height:1.8}
 ul {font-family:"DejaVu Sans Mono"; color:white; line-height:1.8}
 a {font-family:"DejaVu Sans Mono"; color:yellow;}
 img {height: 11rem; width:auto; text-align:center}
-.bio {padding:2em; background-color:#ff7733}
-.projects {padding:2em; background-color:#00cc44}
+.bio {margin-left:2em; margin-right:2em; padding:2em; background-color:#ff7733}
+.projects {margin-left:2em; margin-right:2em; padding:2em; background-color:#00cc44}
 .drivefolder {text-align:center}
-.contacts {padding:2em; background-color: blue}
+.contacts {margin-left:2em; margin-right:2em; padding:2em; background-color: blue}
 .endpage {color:#4d4d4d; text-align:center; font-size:0.7rem}
 .image {text-align:center; margin-top:36px}
