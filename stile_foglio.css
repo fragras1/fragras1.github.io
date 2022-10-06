@@ -7,7 +7,7 @@ body {font-family:"DejaVu Sans Mono"; font-size:0.8rem; width:67em; margin-left:
 p {font-family:"DejaVu Sans Mono"; color:white; line-height:1.8}
 ul {font-family:"DejaVu Sans Mono"; color:white; line-height:1.8}
 a {font-family:"DejaVu Sans Mono"; color:yellow;}
-img {height: 11rem; width:auto;}
+img {height: 11rem; width:auto; text-align:center}
 .bio {padding:2em; background-color:#ff7733}
 .projects {padding:2em; background-color:#00cc44}
 .drivefolder {text-align:center}
