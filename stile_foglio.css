@@ -8,7 +8,7 @@ ul {font-family:"DejaVu Sans Mono"; color:white; line-height:1.8}
 .nav {font-family:"DejaVu Sans Mono"; color:#4d4d4d;}
 a {font-family:"DejaVu Sans Mono"; color:yellow;}
 img {height: 11rem; width:auto;}
-#bio {padding:2em; background-color:#ff7733; max-width:200px}
+.bio {padding:2em; background-color:#ff7733; max-width:200px}
 .projects {padding:2em; background-color:#00cc44}
 .drivefolder {text-align:center}
 .contacts {padding:2em; background-color: blue}
