@@ -17,6 +17,10 @@ nav>p {
       margin-left: 10px;
       font-size: 18px;
       color:#4d4d4d;}
+#bio-menu {
+      display: block-line;
+      background-color: #ff7733;
+      margin-right: 5px;}
 a {font-family:"DejaVu Sans Mono"; color:yellow;}
 img {height: 11rem; width:auto;}
 .bio {margin-left:auto;
