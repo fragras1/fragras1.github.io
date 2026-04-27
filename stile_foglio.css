@@ -7,6 +7,8 @@ p {font-family:"DejaVu Sans Mono"; color:white; line-height:1.8}
 ul {font-family:"DejaVu Sans Mono"; color:white; line-height:1.8}
 .nav {font-family:"DejaVu Sans Mono";
       color:#4d4d4d;
+      margin-left: auto;
+      margin-right: auto;
       font-size: 18px;}
 nav>button {
       display: inline-block;
@@ -18,14 +20,26 @@ nav>button {
       color:#4d4d4d;}
 #bio-menu {
       display: inline-block;
+      font-size: 18px;
       background-color: #ff7733;
+      margin-right: 10px;
+      text-align: center;
+      border-radius: 12px;
       padding: 5px;}
 #experience-menu {
       display: inline-block;
+      font-size: 18px;
       background-color: #00cc44;
+      margin-right: 10px;
+      text-align: center;
+      border-radius: 12px;
       padding: 5px;}
 #contacts-menu {display: inline-block;
                 background-color: blue;
+                font-size: 18px;
+                margin-right: 10px;
+                text-align: center;
+                border-radius: 12px;
                 padding: 5px;}
 a {font-family:"DejaVu Sans Mono"; color:yellow;}
 img {height: 11rem; width:auto;}
