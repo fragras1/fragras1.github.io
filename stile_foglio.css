@@ -26,6 +26,7 @@ nav>button {
       margin-right: 15px;
       text-align: center;
       border-radius: 12px;
+      border-color: #ff7733;
       padding: 5px;}
 #experience-menu {
       display: inline-block;
@@ -34,12 +35,14 @@ nav>button {
       margin-right: 15px;
       text-align: center;
       border-radius: 12px;
+      border-color: #00cc44;
       padding: 5px;}
 #contact-menu {display: inline-block;
                 background-color: blue;
                 font-size: 18px;
                 text-align: center;
                 border-radius: 12px;
+               border-color: blue;
                 padding: 5px;}
 a {font-family:"DejaVu Sans Mono"; color:yellow;}
 img {height: 11rem; width:auto;}
