@@ -11,6 +11,7 @@ ul {font-family:"DejaVu Sans Mono"; color:white; line-height:1.8}
 .nav>p {
       display: block-line;
       text-align: center;
+      font-weight: bold;
       margin-right: 10px;
       margin-left: 10px;
       font-size: 18px;
