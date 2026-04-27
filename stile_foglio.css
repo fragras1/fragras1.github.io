@@ -7,10 +7,9 @@ p {font-family:"DejaVu Sans Mono"; color:white; line-height:1.8}
 ul {font-family:"DejaVu Sans Mono"; color:white; line-height:1.8}
 .nav {font-family:"DejaVu Sans Mono";
       color:#4d4d4d;
-      font-size: 18px;
-      display: block-line;}
+      font-size: 18px;}
 nav>p {
-      display: block-line;
+      display: inline-block;
       text-align: center;
       font-weight: bold;
       margin-right: 10px;
@@ -18,9 +17,16 @@ nav>p {
       font-size: 18px;
       color:#4d4d4d;}
 #bio-menu {
-      display: block-line;
+      display: inline-block;
       background-color: #ff7733;
-      margin-right: 5px;}
+      padding: 5px;}
+#experience-menu {
+      display: inline-block;
+      background-color: #00cc44;
+      padding: 5px;}
+#contacts-menu {display: inline-block;
+                background-color: blue;
+                padding: 5px;}
 a {font-family:"DejaVu Sans Mono"; color:yellow;}
 img {height: 11rem; width:auto;}
 .bio {margin-left:auto;
