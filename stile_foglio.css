@@ -23,7 +23,7 @@ nav>button {
       display: inline-block;
       font-size: 18px;
       background-color: #ff7733;
-      margin-left: 50%;
+      margin-left: 20%;
       margin-right: 15px;
       text-align: center;
       border-radius: 12px;
@@ -41,7 +41,7 @@ nav>button {
 #contact-menu {display: inline-block;
                 background-color: blue;
                 font-size: 18px;
-               margin-right: 50%;
+               margin-right: 20%;
                 text-align: center;
                 border-radius: 12px;
                border-color: blue;
