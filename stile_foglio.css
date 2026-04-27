@@ -8,7 +8,7 @@ ul {font-family:"DejaVu Sans Mono"; color:white; line-height:1.8}
 .nav {font-family:"DejaVu Sans Mono";
       color:#4d4d4d;
       font-size: 18px;}
-p.nav {
+nav>p {
       display: block-line;
       text-align: center;
       font-weight: bold;
