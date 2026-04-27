@@ -14,10 +14,11 @@ nav>button {
       display: inline-block;
       text-align: center;
       font-weight: bold;
-      margin-right: 10px;
-      margin-left: 10px;
+      margin-right: auto;
+      margin-left: auto;
       font-size: 18px;
-      color:#4d4d4d;}
+      text-decoration: none;
+      color: white;}
 #bio-menu {
       display: inline-block;
       font-size: 18px;
@@ -34,10 +35,9 @@ nav>button {
       text-align: center;
       border-radius: 12px;
       padding: 5px;}
-#contacts-menu {display: inline-block;
+#contact-menu {display: inline-block;
                 background-color: blue;
                 font-size: 18px;
-                margin-right: 10px;
                 text-align: center;
                 border-radius: 12px;
                 padding: 5px;}
