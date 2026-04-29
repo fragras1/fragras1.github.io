@@ -7,6 +7,7 @@ p {font-family: monospace; color:white; line-height:1.8}
 ul {font-family: monospace; color:white; line-height:1.8}
 .nav {font-family: monospace;
       color:white;
+      margin-bottom: 20px;
       margin-left: auto;
       margin-right: auto;
       text-align: center;
@@ -31,6 +32,9 @@ nav>button {
       border-radius: 12px;
       border-color: #ff7733;
       padding: 10px;}
+#bio-menu:hover {
+      background-color: #FF5500;
+}
 #experience-menu {
       display: inline-block;
       font-size: 18px;
@@ -40,6 +44,9 @@ nav>button {
       border-radius: 12px;
       border-color: #00cc44;
       padding: 10px;}
+#experience-menu:hover {
+      background-color: #00A336;
+}
 #contact-menu {display: inline-block;
                 background-color: blue;
                 font-size: 18px;
@@ -48,6 +55,7 @@ nav>button {
                 border-radius: 12px;
                border-color: blue;
                 padding: 10px;}
+#contact-menu:hover {background-color: mediumblue;}
 a {font-family: monospace; color: yellow;}
 img {height: 11rem; width:auto;}
 .bio {margin-left:auto;
