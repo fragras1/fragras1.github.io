@@ -24,38 +24,31 @@ nav>a {
       color: white;}
 #bio-menu {
       display: inline-block;
-      font-size: 18px;
       background-color: #ff7733;
       margin-left: 20%;
       margin-right: 15px;
-      text-align: center;
-      border-radius: 12px;
-      border-color: #ff7733;
-      padding: 10px;}
+      text-align: center;}
 #bio-menu:hover {
       background-color: #FF5500;
 }
 #experience-menu {
-      display: inline-block;
-      font-size: 18px;
+      display: inline-block;;
       background-color: #00cc44;
       margin-right: 15px;
-      text-align: center;
-      border-radius: 12px;
-      border-color: #00cc44;
-      padding: 10px;}
+      text-align: center;}
 #experience-menu:hover {
       background-color: #00A336;
 }
 #contact-menu {display: inline-block;
                 background-color: blue;
-                font-size: 18px;
                margin-right: 20%;
-                text-align: center;
-                border-radius: 12px;
-               border-color: blue;
-                padding: 10px;}
+                text-align: center;}
 #contact-menu:hover {background-color: mediumblue;}
+#bio-menu, #experience-menu, #contact-menu {
+      font-size: 20px;
+      padding: 15px;
+      border-radius: 10px;
+      border: 2px #4d4d4d solid;}
 a {font-family: monospace; color: yellow;}
 img {height: 11rem; width:auto;}
 .bio {margin-left:auto;
