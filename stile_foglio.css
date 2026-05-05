@@ -26,23 +26,29 @@ nav>a {
       background-color: #ff7733;
       margin-left: 20%;
       margin-right: 15px;
+      transition: background-color 0.3s ease, transform 0.3s ease;
       text-align: center;}
 #bio-menu:hover {
       background-color: #FF5500;
+      transform: scale(1.1);
 }
 #experience-menu {
       display: inline-block;;
       background-color: #00cc44;
       margin-right: 15px;
+      transition: background-color 0.3s ease, transform 0.3s ease;
       text-align: center;}
 #experience-menu:hover {
       background-color: #00A336;
+      transform: scale(1.1);
 }
 #contact-menu {display: inline-block;
                 background-color: blue;
                margin-right: 20%;
+               transition: background-color 0.3s ease, transform 0.3s ease;
                 text-align: center;}
-#contact-menu:hover {background-color: mediumblue;}
+#contact-menu:hover {background-color: mediumblue;
+                    transform: scale(1.1);}
 #bio-menu, #experience-menu, #contact-menu {
       font-weight: bolder;
       font-size: 20px;
